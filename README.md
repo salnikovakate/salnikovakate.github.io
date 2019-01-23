@@ -1,5 +1,6 @@
 # salnikovakate.github.io
 23.01.2019
+
  <!doctype html>
  <html>
  <head>
@@ -11,7 +12,7 @@
  <left><img alt="Стэнли" width="15%" src="me.jpg"></left>
  <br/>
  <h2>Контакты:</h2>
- Страничка <a href=https://vk.com/username/>vkontakte</a>
+ Страничка <a href=https://vk.com/id272056661/>vkontakte</a>
  <br/>
  <a href=https://github.com/salnikovakate>GitHub</a>
  <br/>
